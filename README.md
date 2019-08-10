@@ -1,10 +1,10 @@
-# A Classic Memory Game
+## A Classic Memory Game
 This is my version of the classic memory game.
 
-# Game Logic
+## Game Logic
 The game randomly shuffles the cards. A user wins once all cards have successfully been matched.
 
-# Game Features
+## Game Features
 
 #### Restart Button
 A restart button allows the player to reset the game board, the timer, and the star rating.
@@ -18,13 +18,13 @@ When the player starts a game, a displayed timer starts. Once the player wins th
 #### Move Counter
 Game displays the current number of moves a user has made.
 
-# Built With
+## Built With
 * HTML5
 * CSS 
 * Vanilla JS
 
-# Author
+## Author
 * Raz Rimon - [LinkedIn](https://www.linkedin.com/in/raz-rimon-416551125) - [GitHub](https://github.com/razcodes/)
 
-# Acknowledgements
+## Acknowledgements
 * Shuffle function taken from here: http://stackoverflow.com/a/2450976
