@@ -10,7 +10,7 @@ The game randomly shuffles the cards. A user wins once all cards have successful
 A restart button allows the player to reset the game board, the timer, and the star rating.
 
 #### Star Rating
-The game displays a star rating (from 1 to 3) that reflects the player's performance. At the beginning of a game, it displays 3 stars. After some number of moves, it changes to a lower star rating. After a few more moves, it changes to an even lower star rating (down to 1).
+The game displays a star rating (from 1 to 3) that reflects the player's performance. At the beginning of a game, it displays 3 stars. After some number of moves, it changes to a lower star rating. After a few more moves, it changes to an even lower star rating.
 
 #### Timer
 When the player starts a game, a displayed timer starts. Once the player wins the game, the timer stops.
