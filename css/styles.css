@@ -148,6 +148,10 @@ h2 {
   width: 30%;
 }
 
+#start_button:hover {
+  cursor: pointer;
+}
+
 #start_button:active {
   transition: 0.05s;
   transform: translateY(4px);
