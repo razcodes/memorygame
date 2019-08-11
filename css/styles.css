@@ -69,7 +69,7 @@ h2 {
   margin: 0;
   padding: 0;
   border-radius: 20px;
-  background: linear-gradient(155deg, rgba(2,0,36,1) 0%, rgba(177,180,75,1) 0%, rgba(255,119,0,1) 100%);
+  background: linear-gradient(155deg, rgba(2,0,36,1) 0%, rgba(0,228,255,1) 0%, rgba(180,230,206,1) 100%);
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -85,7 +85,7 @@ h2 {
   margin: 10px;
   cursor: pointer;
   border-radius: 10px;
-  background: #ECE1CF;
+  background: #2b5f66;
   font-size: 0px;
   display: flex;
   justify-content: center;
@@ -114,7 +114,7 @@ h2 {
 
 #deck .card_match {
   background: rgb(2,0,36);
-  background: linear-gradient(155deg, rgba(2,0,36,1) 0%, rgba(123,218,101,1) 0%, rgba(0,212,255,1) 70%);
+  background: linear-gradient(155deg, rgba(2,0,36,1) 0%, rgba(134,255,0,1) 0%, rgba(210,255,82,1) 100%);
 }
 
 #deck .card_match:hover {
@@ -126,7 +126,7 @@ h2 {
 
 #deck .card_show {
   transform: rotateY(180deg);
-  background: linear-gradient(155deg, rgba(2,0,36,1) 0%, rgba(180,75,75,1) 0%, rgba(255,0,159,1) 100%);
+  background: linear-gradient(155deg, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 0%, rgba(255,67,184,1) 46%, rgba(255,0,0,1) 100%);
 }
 
 #scores_panel {
