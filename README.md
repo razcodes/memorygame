@@ -1,3 +1,5 @@
+![Picture of the game](https://raw.githubusercontent.com/razcodes/memorygame/img/ex.jpg)
+
 ## A Classic Memory Game
 This is my version of the classic memory game.
 
