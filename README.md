@@ -1,4 +1,4 @@
-![Picture of the game](https://github.com/razcodes/memorygame/tree/master/img/ex.jpg)
+![Picture of the game](https://github.com/razcodes/memorygame/blob/master/img/ex.jpg?raw=true)
 
 ## A Classic Memory Game
 This is my version of the classic memory game.
