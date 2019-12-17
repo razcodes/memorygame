@@ -1,7 +1,5 @@
 ![Picture of the game](https://github.com/razcodes/memorygame/blob/master/img/ex.jpg?raw=true)
 
-(Can be played online [HERE](https://razrimon.000webhostapp.com/memorygame/game.html))
-
 ## A Classic Memory Game
 This is my version of the classic memory game.
 
