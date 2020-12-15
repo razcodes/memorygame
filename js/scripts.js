@@ -68,8 +68,15 @@ function initGame(){
     card.addEventListener("click", function(e){
       //We can flip card only if 2 arent showing
       //or if it isn't matched
-      if(flippedCards.length<2 && !card.classList.contains("card_show") && !card.classList.contains("card_match")&& !card.classList.contains("card_flip")){
-        card.classList.add("card_show", "card_flip");
+      if(
+        flippedCards.length<2 && 
+        !card.classList.contains("card_show") && 
+        !card.classList.contains("card_match")&& 
+        !card.classList.contains("card_flip")
+        ){
+        card.classList.add("card_show");
+        setTimeout(()=>{card.classList.add("card_flip")},150);
+        
         flippedCards.push(card);
 
         //Moves counter
