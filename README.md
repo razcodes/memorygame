@@ -1,4 +1,5 @@
 ![Picture of the game](https://github.com/razcodes/memorygame/blob/master/img/ex.jpg?raw=true)
+
 [Play it here!](https://razrimon.000webhostapp.com/memorygame/game.html)
 
 ## A Classic Memory Game
