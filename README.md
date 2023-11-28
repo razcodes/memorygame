@@ -1,6 +1,6 @@
 ![Picture of the game](https://github.com/razcodes/memorygame/blob/master/img/ex.jpg?raw=true)
 
-[Play it here!](https://razrimon.000webhostapp.com/memorygame/game.html)
+[Play it here!](https://raz-memory-game.netlify.app/)
 
 ## A Classic Memory Game
 This is my version of the classic memory game.
